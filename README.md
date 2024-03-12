@@ -2,7 +2,7 @@
 
 👀 I’m interested in backpacking, TTRPGs, and BSM physics.
 
-🌱 I’m currently learning ROOT as part of a project investigating new physics discovery potential in long-lived lepton decay processes!
+🌱 I’m currently learning the nuances of ROOT as part of a project investigating new physics discovery potential in long-lived lepton decay processes!
 
 💞️ I’m looking to collaborate on anything involving graviton/gravitino research.
 
