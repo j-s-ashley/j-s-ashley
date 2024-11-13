@@ -2,7 +2,7 @@
 
 👀 I’m interested in backpacking, TTRPGs, and BSM physics.
 
-🌱 I’m currently learning how packaging works! CMake isn't so scary.
+🌱 I’m currently learning [coffea](https://coffeateam.github.io/coffea/).
 
 💞️ I’m looking to collaborate on anything involving graviton/gravitino research.
 
