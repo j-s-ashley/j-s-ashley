@@ -2,7 +2,7 @@
 
 👀 I’m interested in backpacking, TTRPGs, and BSM physics.
 
-🌱 I’m currently learning [coffea](https://coffeateam.github.io/coffea/).
+🌱 I’m currently learning [coffea](https://github.com/scikit-hep/coffea).
 
 💞️ I’m looking to collaborate on anything involving graviton/gravitino research.
 
